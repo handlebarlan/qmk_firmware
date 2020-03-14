@@ -1,0 +1,3 @@
+# from https://docs.qmk.fm/#/cli
+# can use local CLI qmk to compile with a keymap json export from configurator:
+~/dev/qmk_firmware/bin/qmk compile ~/dev/qmk_firmware/keyboards/keebio/quefrency/keymaps/handlebarlan/handlebarlan.josn
