@@ -1,0 +1,1 @@
+~/dev/qmk_firmware/bin/qmk compile keyboards/keebio/quefrency/keymaps/handlebarlan60/keebio-quefrency-rev1-handlebarlan60.json
