@@ -1,3 +1,6 @@
 # from https://docs.qmk.fm/#/cli
 # can use local CLI qmk to compile with a keymap json export from configurator:
 ~/dev/qmk_firmware/bin/qmk compile ~/dev/qmk_firmware/keyboards/keebio/quefrency/keymaps/handlebarlan/handlebarlan.josn
+# for the kbd 60% drop thing I got, used this successfully:
+dztech/dz60rgb_ansi/v2
+
